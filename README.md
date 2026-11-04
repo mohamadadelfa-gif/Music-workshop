@@ -6,6 +6,17 @@ A Persian-language, participatory music-learning workshop developed through sele
 
 **Learning framework:** شنیدن، درک کردن، گفت‌وگو کردن و تجربه کردن. Imitation, response and creation are practical tools.
 
+## Iran Musicology online workshop — current production
+
+- [Integrated online delivery plan](operations/ONLINE-DELIVERY-PLAN.md) — Google Meet, roles, rehearsals and responsibilities
+- [Coordination worksheet](project/IRAN-MUSICOLOGY-ONLINE-AGREEMENT.md) — unresolved operating terms
+- [Google Meet sound check](operations/PLATFORM-AUDIO-TEST.md) — verified receiving-side musical audio
+- [First-session plan](sessions/online/SESSION-01-PILOT.md) — Bernstein excerpt and listening questions
+- [Rehearsal and learning evaluation](operations/PILOT-EVALUATION.md) — optional micro-pilot and post-class review
+- [Participant guide](operations/PARTICIPANT-GUIDE.md) — Persian joining instructions
+- [Promotional video package](production/iran-musicology/CAMPAIGN.md) — campaign overview and both scripts
+- [Professional editor brief](production/iran-musicology/EDITOR-BRIEF-FA.md) — shot design, sound, typography, handoff and QA
+
 ## Explore
 
 - [Revised Persian proposal](project/PROPOSAL-FA.md) — current scope, method and proposed first block
