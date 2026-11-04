@@ -1,0 +1,21 @@
+# Excerpt Record — [ID / program / theme]
+
+- **Program / episode:**
+- **Source URL and rightsholder:**
+- **Video edition / recording used:**
+- **Original broadcast date (verified):**
+- **Exact in/out timecodes (verified against edition):** OPEN
+- **Central listening question (Persian):**
+- **What Bernstein demonstrates (summary in own words):**
+- **Audible element to isolate:**
+- **Pause before explanation at:**
+- **Transcript status:** OPEN
+- **Persian translation reviewer / status:** OPEN
+- **Subtitle timing / readability QA:** OPEN
+- **Persian glossary choices:**
+- **Licensed classroom/public use status:** OPEN
+- **What the facilitator demonstrates:**
+- **What a beginner can do (including listening-only alternative):**
+- **One observable learning check:**
+- **Connection to next excerpt:**
+- **Notes distinguishing source claims and our adaptations:**
