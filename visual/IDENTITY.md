@@ -11,27 +11,30 @@ The workshop is connected to the broader **RIRA | ری‌را** creative/educati
 - Keep body copy short; do not overload one slide with pedagogy and logistics.
 - Use deliberate, restrained typography and predictable margins.
 - Clearly distinguish *Young People's Concerts*, Leonard Bernstein, the facilitator, and Iran Musicology by role.
-- Use an approved wordmark/account handle exactly as published; placeholders must not become fabricated addresses.
-- Avoid using a full-bleed musical photograph or graphic purely as generic decoration when compositional structure conveys the idea better.
+- Use approved wordmarks/account handles exactly as published.
+- Avoid a generic photographic background when structured composition would express the workshop more clearly.
 
-## Announcement file inventory
+## Announcement assets
 
-| Asset | Working state | Approved source / export path | Next check |
+**Four Iran Musicology announcement slides were approved in project discussion.** Their actual final exports and editable source files have **not been uploaded or identified by path in this repo**. Approval is of the discussed designs; file availability and publication QA remain separate.
+
+| Asset | Design status | Final export/source file in repo | Next check |
 |---|---|---|---|
-| Story slide 1 | AUDITED IN DISCUSSION; APPROVAL OPEN | OPEN | Verify final text and composition |
-| Story slide 2 | AUDITED IN DISCUSSION; APPROVAL OPEN | OPEN | Verify final text and composition |
-| Story slide 3 | AUDITED IN DISCUSSION; APPROVAL OPEN | OPEN | Verify final text and composition |
-| Other announcement slides | OPEN | OPEN | Add final inventory and source files |
+| Approved slide 1 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
+| Approved slide 2 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
+| Approved slide 3 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
+| Approved slide 4 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
 
-## Copy and approval workflow
+## Approval workflow
 
 Draft → text review → design audit → explicit approval → export QA → publication.
 
-Record for every slide: editable source link, 1080×1920 story export (if a story), version, date, approval status, collaborator accounts as actually confirmed, and spelling/RTL check. Do not add copyrighted background imagery or third-party branding without reviewing reuse permissions.
+For each file record the editable source, intended dimensions (e.g. 1080×1920 for stories), version, approval date, collaboration credit and spelling/RTL check. Do not add copyrighted imagery or partner branding without reviewing reuse permissions.
 
-## Public-copy checks
+## Online-course announcement requirements
 
+- Clearly state **online** delivery.
 - Do not imply the entire Bernstein series fits four meetings.
-- Describe the class as *interactive*, not simply viewing subtitled lectures.
-- No notation/instrument prerequisites.
-- Publish dates, registration handles, fees, and partner marks only when approved.
+- Describe the workshop as interactive, not passive screening.
+- State no prerequisite of notation or instrument skill.
+- Confirm session count, time zone, platform, fees and registration handles **before publication**.
