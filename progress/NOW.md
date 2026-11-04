@@ -15,6 +15,16 @@ This update supersedes conflicting older planning below. See the [revised propos
 - Pilot rehearsal is optional, not a required stage before registration. Nina Simone remains a possible example/podcast reference, not a required opening.
 - Next task: prepare and rehearse Session 1 with a familiar excerpt, listening question, suitable Bernstein clip, simple demonstration and online turns.
 
+## Current production package — video and online delivery
+
+**Committed draft assets:** [Professional editor brief](../production/iran-musicology/EDITOR-BRIEF-FA.md), [intro script](../production/iran-musicology/INTRO-SCRIPT.md), [promo script](../production/iran-musicology/PROMO-SCRIPT.md), [Google Meet audio test](../operations/PLATFORM-AUDIO-TEST.md), [online lesson](../sessions/online/SESSION-01-PILOT.md).
+
+**Immediate action:** Time the Persian presenter script aloud, prepare an original A/B musical example with one controlled difference, and hand the editor the brief plus the actual four approved slide exports once available.
+
+**Operational next action:** Test the musical example and a subtitled clip as *received* over Google Meet by a participant connection in Iran. Pilot with volunteers if useful; no claim that such a pilot has happened.
+
+**Public claims:** Confirmed in revised proposal: online / Google Meet, first four sessions, announced start ۲۵ آبان ۱۴۰۵, and @iranmusicology DM. Do not invent price or exact meeting schedule.
+
 ## Earlier planning reference
 
 
