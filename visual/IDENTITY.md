@@ -1,40 +1,46 @@
-# Visual Identity & Announcement Review
+# Visual Identity & Announcement Review — Iran Musicology
 
-## Design relationship
+## Campaign identity
 
-The workshop is connected to the broader **RIRA | ری‌را** creative/educational direction. Its established design exploration favors structured abstraction, compositional geometry, painterly construction, and restrained navy / ivory / rust / ochre / blue-gray tones. Treat these as **directional principles**, not immutable numeric specifications for the Iran Musicology collaboration.
+The **Iran Musicology online workshop** has its own announcement and promotion package. These advertisements are for **Iran Musicology**, with محمد عادلفر as workshop facilitator. Do not treat them as RIRA promotional assets, and do not add RIRA symbols or marks. Follow the four Iran Musicology slides that were approved in discussion, subject to verifying and obtaining their actual final files.
 
 ## Editorial standards
 
-- Prioritize Persian RTL hierarchy and accurate names and diacritics.
-- Make the **workshop title**, **central promise**, and **registration instructions** scannable at Instagram story size.
-- Keep body copy short; do not overload one slide with pedagogy and logistics.
-- Use deliberate, restrained typography and predictable margins.
-- Clearly distinguish *Young People's Concerts*, Leonard Bernstein, the facilitator, and Iran Musicology by role.
-- Use approved wordmarks/account handles exactly as published.
-- Avoid a generic photographic background when structured composition would express the workshop more clearly.
+- Prioritize Persian RTL hierarchy and accurate names.
+- Make the **online format (آنلاین)**, **workshop title**, **central promise**, and **registration instructions** readable in Instagram Reel and Story formats.
+- Short text, consistent hierarchy, purposeful use of sound and imagery.
+- Clearly distinguish Bernstein (pedagogical source), the facilitator and Iran Musicology (workshop organizer/presenting identity).
+- Use partner wordmark, credits and exact account handles only after final approval.
+- Avoid unlicensed Bernstein footage, music, images or portrait in public promotion.
+- Design from approved Iran Musicology slides rather than importing another project's identity.
 
 ## Announcement assets
 
-**Four Iran Musicology announcement slides were approved in project discussion.** Their actual final exports and editable source files have **not been uploaded or identified by path in this repo**. Approval is of the discussed designs; file availability and publication QA remain separate.
+**Four Iran Musicology announcement slides were approved in project discussion.** Their actual final exports and editable source files have **not been uploaded or identified by path in this repo**. Approval of the discussed designs is distinct from having usable final media.
 
 | Asset | Design status | Final export/source file in repo | Next check |
 |---|---|---|---|
-| Approved slide 1 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
-| Approved slide 2 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
-| Approved slide 3 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
-| Approved slide 4 | APPROVED IN DISCUSSION | NOT PRESENT | Archive correct final version, confirm copy |
+| Approved slide 1 | APPROVED IN DISCUSSION | NOT PRESENT | Obtain exact final master/export |
+| Approved slide 2 | APPROVED IN DISCUSSION | NOT PRESENT | Obtain exact final master/export |
+| Approved slide 3 | APPROVED IN DISCUSSION | NOT PRESENT | Obtain exact final master/export |
+| Approved slide 4 | APPROVED IN DISCUSSION | NOT PRESENT | Obtain exact final master/export |
+
+## Video package
+
+- [Campaign production plan](../production/iran-musicology/CAMPAIGN.md)
+- [Short promotional Reel](../production/iran-musicology/PROMO-SCRIPT.md)
+- [Online workshop presenter introduction](../production/iran-musicology/INTRO-SCRIPT.md)
 
 ## Approval workflow
 
-Draft → text review → design audit → explicit approval → export QA → publication.
+Draft → text review → design audit → explicit Iran Musicology approval → export QA → publication.
 
-For each file record the editable source, intended dimensions (e.g. 1080×1920 for stories), version, approval date, collaboration credit and spelling/RTL check. Do not add copyrighted imagery or partner branding without reviewing reuse permissions.
+For every asset record editable source, intended dimensions (e.g. 1080×1920 for stories/reels), version, final approved partner credit, and spelling/RTL audit. Media copyright and reproduction permissions must be reviewed.
 
-## Online-course announcement requirements
+## Required public-message checks
 
-- Clearly state **online** delivery.
-- Do not imply the entire Bernstein series fits four meetings.
-- Describe the workshop as interactive, not passive screening.
-- State no prerequisite of notation or instrument skill.
-- Confirm session count, time zone, platform, fees and registration handles **before publication**.
+- Online delivery is explicit.
+- Do not imply all of Bernstein's concert series fits four meetings.
+- Workshop is participatory, not a passive video screening.
+- No music-reading or instrument prerequisite.
+- Publish platform, schedule, price, registration handle and link only when confirmed.
