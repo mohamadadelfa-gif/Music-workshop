@@ -4,10 +4,12 @@ A Persian-language, participatory music-learning workshop developed through sele
 
 **Current direction:** a multi-session workshop proposed in collaboration with Iran Musicology. Its distinguishing method is to break Bernstein's explanations into short subtitled segments, pause for questions, and turn each concept into a listening or music-making experiment.
 
-**Learning cycle:** شنیدن → تقلید کردن → همراهی کردن → خلق کردن
+**Learning framework:** شنیدن، درک کردن، گفت‌وگو کردن و تجربه کردن. Imitation, response and creation are practical tools.
 
 ## Explore
 
+- [Revised Persian proposal](project/PROPOSAL-FA.md) — current scope, method and proposed first block
+- [Master working document](sources/WORKSHOP-MASTER.md) — latest decisions and historical reference plans
 - [Project brief](project/BRIEF.md) — purpose, audience, decisions, and scope
 - [Bernstein sources](sources/bernstein/INDEX.md) — programs, excerpt records, translations, and citation rules
 - [Session plans](sessions/README.md) — learning progression and reusable teaching template
@@ -25,7 +27,7 @@ A Persian-language, participatory music-learning workshop developed through sele
 6. Mark unverified timestamps, transcripts, translations, permissions, dates, and prices as **OPEN**; never present them as completed.
 7. Keep historical draft curricula separate from the currently proposed course.
 
-**Status:** Planning and content preparation. Session duration, number of meetings, delivery mode, scheduling, fees, and production readiness require confirmation before public publication.
+**Status:** Four-slide announcement approved by the user for Iran Musicology. Continuing workshop; registration for the first four sessions, online via Google Meet. Announcement start: ۲۵ آبان ۱۴۰۵; registration: DM @iranmusicology. Session times/dates, duration, capacity, fees and media readiness remain pending.
 
 ## Attribution
 

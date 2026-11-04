@@ -2,13 +2,13 @@
 
 ## Current candidate sequence (not a fixed syllabus)
 
-The Iran Musicology proposal sketches four **pedagogical themes**:
-1. **Story, sound, and musical phrase** — observations vs. imagined narratives; intervals, tension, musical question and answer.
-2. **Elements of expression** — tempo, articulation, timbre, and how a familiar idea changes.
-3. **Musical dialogue and contrast** — register, expression, verbal emphasis, responsive group practice.
-4. **Motivic development and collective creation** — repetition, sequence, harmony, texture, and applying concepts to new music.
+The [revised proposal](../project/PROPOSAL-FA.md) covers the first four sessions of a continuing workshop:
+1. Hearing and interpretation — distinguish audible features from feelings and imagined stories.
+2. One small change — compare one expressive change and its perceived effect.
+3. Listening and responding — let another person’s contribution shape a response.
+4. Listening again and transfer — apply the questions to a new example and try one conscious change.
 
-**Important:** These themes are a proposal framework. A more extensive curriculum covering a larger portion of Bernstein's programs may require substantially more meetings. Do not assert the four themes cover the entire series.
+This is a proposed preparation outline, not a finalized syllabus. Harmony, form and motivic development can grow later; their full coverage is not promised in four meetings. Public framework: listen / understand / discuss / experiment.
 
 ## Standard activity sequence
 

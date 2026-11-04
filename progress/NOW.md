@@ -1,5 +1,23 @@
 # Current Work | اکنون / بعد / بعداً
 
+## Current decisions — 2026-11-04
+
+This update supersedes conflicting older planning below. See the [revised proposal](/mohamadadelfa-gif/Music-workshop/blob/main/project/PROPOSAL-FA.md) and [master document](/mohamadadelfa-gif/Music-workshop/blob/main/sources/WORKSHOP-MASTER.md).
+
+- Continuing workshop; registration covers the **first four sessions**. Preference: encompass Bernstein’s educational series progressively. Total count and later sequence remain open.
+- Framework: **می‌شنویم، درک می‌کنیم، گفت‌وگو می‌کنیم، تجربه می‌کنیم**. Imitation, response and creation are practical tools within it.
+- Audience: enthusiasts without instrument experience, people returning after a break, and active music makers. Discussion is shared by all groups.
+- User approved the four-slide announcement set for Iran Musicology. Exact export/master file mapping remains to be recorded; approval does not settle every operational responsibility.
+- Current intake: **online via Google Meet**. Announcement start: **۲۵ آبان ۱۴۰۵**; registration by DM **@iranmusicology**.
+- Pending: days/times (Tehran), all four dates, duration, capacity, fee/payment/cancellation, operational roles, exact media cues and subtitle readiness. Earlier size/duration figures remain proposals.
+- First-block plan is proposed: hearing versus interpretation; one small expressive change; responding to another; applying listening questions to a new example. Full harmony/form/motivic development is not promised in four meetings.
+- Adapt Bernstein to the group; do not claim all clips are prepared or his sequence is copied exactly. Feelings and associations are welcomed, distinguished from audible features and documented intention/context.
+- Pilot rehearsal is optional, not a required stage before registration. Nina Simone remains a possible example/podcast reference, not a required opening.
+- Next task: prepare and rehearse Session 1 with a familiar excerpt, listening question, suitable Bernstein clip, simple demonstration and online turns.
+
+## Earlier planning reference
+
+
 **Last structured update:** 2026-11-04
 **Status:** Foundation being organized; no public launch or participant booking inferred.
 

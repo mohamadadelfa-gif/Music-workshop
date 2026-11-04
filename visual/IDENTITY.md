@@ -2,7 +2,9 @@
 
 ## Design relationship
 
-The workshop is connected to the broader **RIRA | ری‌را** creative/educational direction. Its established design exploration favors structured abstraction, compositional geometry, painterly construction, and restrained navy / ivory / rust / ochre / blue-gray tones. Treat these as **directional principles**, not immutable numeric specifications for the Iran Musicology collaboration.
+Independent workshop identity for Iran Musicology; **no RIRA connection**. White / neutral gray, black and deep red; repeated curved bands with meaningful variations and pauses; Persian hierarchy; Bernstein imagery; Iran Musicology mark.
+
+**Approval:** The user approved the four-slide set on 2026-11-04. Exact editable master/export mapping remains pending. The approved roles are cover, activities, audience and registration. These are 3:4 carousel layouts (1080×1440); 9:16 Story adaptations are separate exports.
 
 ## Editorial standards
 
@@ -18,10 +20,10 @@ The workshop is connected to the broader **RIRA | ری‌را** creative/educati
 
 | Asset | Working state | Approved source / export path | Next check |
 |---|---|---|---|
-| Story slide 1 | AUDITED IN DISCUSSION; APPROVAL OPEN | OPEN | Verify final text and composition |
-| Story slide 2 | AUDITED IN DISCUSSION; APPROVAL OPEN | OPEN | Verify final text and composition |
-| Story slide 3 | AUDITED IN DISCUSSION; APPROVAL OPEN | OPEN | Verify final text and composition |
-| Other announcement slides | OPEN | OPEN | Add final inventory and source files |
+| Carousel slide 1 | SET APPROVED; FILE MAPPING OPEN | OPEN | Record approved export and editable master |
+| Carousel slide 2 | SET APPROVED; FILE MAPPING OPEN | OPEN | Record approved export and editable master |
+| Carousel slide 3 | SET APPROVED; FILE MAPPING OPEN | OPEN | Record approved export and editable master |
+| Registration slide (fourth approved role) | SET APPROVED; FILE MAPPING OPEN | OPEN | Record approved export and editable master |
 
 ## Copy and approval workflow
 
