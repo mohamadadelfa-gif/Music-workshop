@@ -14,6 +14,7 @@ A Persian-language, participatory music-learning workshop developed through sele
 - [Platform and music-audio test](operations/PLATFORM-AUDIO-TEST.md) — Zoom/Skyroom comparison and fallback
 - [Pilot evaluation](operations/PILOT-EVALUATION.md) — learning and technical evidence
 - [Persian participant guide](operations/PARTICIPANT-GUIDE.md) — joining and participation draft
+- [Iran Musicology advertising and introduction videos](production/iran-musicology/CAMPAIGN.md) — Reel, presenter introduction, scripts and production QA
 
 ## Explore the research and long-term project
 
