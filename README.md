@@ -2,16 +2,25 @@
 
 A Persian-language, participatory music-learning workshop developed through selected lessons from Leonard Bernstein's *Young People's Concerts*.
 
-**Current direction:** a multi-session workshop proposed in collaboration with Iran Musicology. Its distinguishing method is to break Bernstein's explanations into short subtitled segments, pause for questions, and turn each concept into a listening or music-making experiment.
+**Current direction:** Iran Musicology requires **online delivery**. The workshop adapts short, Persian-subtitled Bernstein segments into practical listening, response, and music-making activities. The online **platform, schedule, scope, commercial terms, and pilot readiness** are still OPEN.
 
 **Learning cycle:** شنیدن → تقلید کردن → همراهی کردن → خلق کردن
 
-## Explore
+## Start here — Iran Musicology online delivery
+
+- [Integrated online delivery plan](operations/ONLINE-DELIVERY-PLAN.md) — six phases, responsibilities, preparation milestones and launch gates
+- [Partner agreement worksheet](project/IRAN-MUSICOLOGY-ONLINE-AGREEMENT.md) — meeting agenda and unresolved approvals
+- [Online Session 01 / micro-pilot](sessions/online/SESSION-01-PILOT.md) — 25-minute feasibility test and proposed 85-minute class
+- [Platform and music-audio test](operations/PLATFORM-AUDIO-TEST.md) — Zoom/Skyroom comparison and fallback
+- [Pilot evaluation](operations/PILOT-EVALUATION.md) — learning and technical evidence
+- [Persian participant guide](operations/PARTICIPANT-GUIDE.md) — joining and participation draft
+
+## Explore the research and long-term project
 
 - [Project brief](project/BRIEF.md) — purpose, audience, decisions, and scope
-- [Bernstein sources](sources/bernstein/INDEX.md) — programs, excerpt records, translations, and citation rules
-- [Session plans](sessions/README.md) — learning progression and reusable teaching template
-- [Visual identity](visual/IDENTITY.md) — design principles, slide inventory, and copy review
+- [Bernstein sources](sources/bernstein/INDEX.md) — program references and excerpt records
+- [Session plans](sessions/README.md) — teaching progression and lesson template
+- [Visual identity](visual/IDENTITY.md) — design principles and approved-slide status
 - [Progress dashboard](progress/NOW.md) — one active task, next steps, open questions
 - [Decision log](project/DECISIONS.md) — traceable decisions and changes
 
@@ -21,12 +30,11 @@ A Persian-language, participatory music-learning workshop developed through sele
 2. Separate **what participants hear**, **what they interpret**, and **what sources document**.
 3. Pause video *before* Bernstein's explanation where possible; invite listeners to respond, then replay and discuss.
 4. Include a non-singing, non-notation participation option.
-5. Treat Bernstein as a guiding pedagogical reference, not a script to copy uncritically.
-6. Mark unverified timestamps, transcripts, translations, permissions, dates, and prices as **OPEN**; never present them as completed.
-7. Keep historical draft curricula separate from the currently proposed course.
+5. Online group creation uses controlled, sequential musical responses; simultaneous remote ensemble playing is not assumed.
+6. Treat Bernstein as a guiding pedagogical reference, not a script to copy uncritically.
+7. Mark unverified timestamps, transcripts, translations, permissions, dates, prices, and platform capabilities as **OPEN**.
+8. Keep earlier four-session historical drafts separate from the current course proposal.
 
-**Status:** Planning and content preparation. Session duration, number of meetings, delivery mode, scheduling, fees, and production readiness require confirmation before public publication.
+## Attribution and data care
 
-## Attribution
-
-The workshop draws on Leonard Bernstein's *Young People's Concerts*. Videos, audio, scripts, stills, and third-party translations are not included in this repository unless rights and permissions have been reviewed. Prefer links to official sources and original facilitator notes.
+This repository is public. Do not commit copyrighted recordings, substantial transcripts or subtitles without suitable rights; do not commit student names, contact information, meeting credentials, private pilot recordings, or payment data. Prefer official links and original facilitator notes.
